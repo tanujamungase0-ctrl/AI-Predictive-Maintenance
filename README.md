@@ -11,7 +11,8 @@ Features
 - Flask Backend
 - Responsive Dashboard
 
-Live Demo
+Live Demo :- https://ai-predictive-maintenance-vxwq.onrender.com/
+
 Tech Stack
 Python
 Flask
